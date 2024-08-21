@@ -1,4 +1,4 @@
-# FitClub Home Page Structure
+# Mon'sa Home Page Structure
 
 Welcome to the Mon'sa Home Page Clone project! home page using only HTML and CSS, without any JavaScript. The primary goal of this project is to showcase basic HTML and CSS skills.
 
